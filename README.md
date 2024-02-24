@@ -16,8 +16,8 @@
 
 ![](./screenshot.png)
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://github.com/AlMubaraq7/manage)
+- Solution URL: (https://github.com/AlMubaraq7/manage)
+- Live Site URL: (https://manage-orpin-one.vercel.app/)
 
 ## My process
 
@@ -40,5 +40,3 @@ Learned how to use tailwind!
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/AlMubaraq7)
 - Twitter - [@yourusername](https://www.x.com/mubaraq_sama)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
